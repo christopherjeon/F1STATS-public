@@ -1,0 +1,78 @@
+h1,
+h2 h3,
+h4,
+h5,
+p {
+    font-family: 'Geneva';
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+body {
+    background-color: #E0E0E0;
+}
+
+.site_logo {
+    width: 20vw;
+}
+
+.title_bar {
+    display: inline-block;
+}
+
+.tabs {
+    font-family: 'Geneva';
+}
+
+.season_dropdown {
+    font-family: 'Geneva';
+    width: 25%;
+}
+
+.driver_name_card {
+    background-color: white;
+}
+
+.driver_about_card {
+    background-color: white;
+}
+
+.driver_career_card {
+    background-color: white;
+}
+
+.driver_about_seasons {
+    background-color: white;
+}
+
+.driver_about_finishing {
+    background-color: white;
+}
+
+.driver_about_grid {
+    background-color: white;
+}
+
+.driver_about_wins {
+    background-color: white;
+}
+
+.driver_list_dropdown {
+    padding-top: 15px;
+    width: 25%;
+}
+
+#winsCard>div>div.DataCardContent>div.DataCardNumbers>div.Value {
+    font-size: 1rem;
+}
+
+#polesCard>div>div.DataCardContent>div.DataCardNumbers>div.Value {
+    font-size: 1rem;
+}
+
+#lapCard>div>div.DataCardContent>div.DataCardNumbers>div.Value {
+    font-size: 1rem;
+}
+
