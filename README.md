@@ -1,5 +1,11 @@
 # Formula 1 Statistics Page
 
+_*ATTENTION: This version of F1STATS in this repository is made with the open source version of [Dash](https://plotly.com/dash/) and [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/).*_
+
+_*My published version of F1STATS (found [here](https://formula1stats.herokuapp.com/)) was built with [Dash Design Kit](https://plotly.com/dash/design-kit/), a commercially licensed software, which is why I have set my original repository to private. This version of the app contains the exact same graphing tools and information - the only difference are the UI components.*_
+
+_*If you have questions regarding the difference between the open source version of Dash and Dash Enterprise, feel free to reach out!*_
+
 This web application produces race results, driver and constructor rankings, up-to-date timetables, and comparisons of Formula 1 seasons from 1950 to the present.
 
 Built with Python, Dash, and the Ergast Developer API (Motor Racing Data), this application will provide users an in-depth look at the numbers behind Formula 1.
