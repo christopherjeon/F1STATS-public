@@ -2,6 +2,6 @@
 dash==1.12.0
 gunicorn==19.9.0
 pandas==1.0.3
-numpy==1.18.2
+numpy==1.22.0
 wikipedia==1.4.0
 dash-bootstrap-components==0.10.3
