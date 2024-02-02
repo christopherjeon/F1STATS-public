@@ -1,5 +1,5 @@
 ./packages/dash_twitter_widget-0.0.1.tar.gz
-dash==1.12.0
+dash==2.15.0
 gunicorn==19.9.0
 pandas==1.0.3
 numpy==1.18.2
